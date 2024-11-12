@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2687666598121729523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5336679031437854805}
+  m_Layer: 0
+  m_Name: BarrelSet0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5336679031437854805
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2687666598121729523}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -31.801, y: 0.53, z: 21.545}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2790294360975172277}
+  - {fileID: 2026696553584124809}
+  - {fileID: 4893053791734774596}
+  - {fileID: 9157621237085990150}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2030683877944661839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5336679031437854805}
+    m_Modifications:
+    - target: {fileID: 1000013658180320, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_Name
+      value: Pickle Barrel Opening (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.041000366
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.57110274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.83399963
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+--- !u!4 &2026696553584124809 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+  m_PrefabInstance: {fileID: 2030683877944661839}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2789742532078179955
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5336679031437854805}
+    m_Modifications:
+    - target: {fileID: 1000013658180320, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_Name
+      value: Pickle Barrel Opening (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.015001297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8721778
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.051000595
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+--- !u!4 &2790294360975172277 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+  m_PrefabInstance: {fileID: 2789742532078179955}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4893631047378947970
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5336679031437854805}
+    m_Modifications:
+    - target: {fileID: 1000013658180320, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_Name
+      value: Pickle Barrel Opening (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5973091
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.57110274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.23610115
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+--- !u!4 &4893053791734774596 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+  m_PrefabInstance: {fileID: 4893631047378947970}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9158160017981413824
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5336679031437854805}
+    m_Modifications:
+    - target: {fileID: 1000013658180320, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_Name
+      value: Pickle Barrel Opening
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5744152
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.57110274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.16150475
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+--- !u!4 &9157621237085990150 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011824329926, guid: 840d24b1ce6444c9e8912eba9bc97c8b, type: 3}
+  m_PrefabInstance: {fileID: 9158160017981413824}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,10 @@
+Props
+
+Árvores secas: https://assetstore.unity.com/packages/3d/fountain-prop-75912
+
+Fonte: https://assetstore.unity.com/packages/3d/fountain-prop-75912
+
+Skybox:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
+
+Barris e caixotes: https://assetstore.unity.com/packages/3d/props/exterior/pbr-barrels-and-crates-34608
