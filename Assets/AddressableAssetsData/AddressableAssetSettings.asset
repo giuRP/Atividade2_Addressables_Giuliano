@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 9f144e54ae0a98f438c300b03a384598
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 3da3c5714b7c369cdef7202fb97282b3
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -46,6 +46,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 3667a58b7604f9d4ea62e2bdbf791368, type: 2}
   - {fileID: 11400000, guid: ed174b077025dee45a9c0d72dac938ba, type: 2}
+  - {fileID: 11400000, guid: a452ee4a319df4444aca039fc5d8c242, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -67,6 +68,20 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: 000628b25bb726c46bfd362355e15f55
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+    - m_InheritedParent: 
+      m_Id: 595a857cc2c3e2940bccff2b8399d510
+      m_ProfileName: RemoteAssets
+      m_Values:
+      - m_Id: c20571824763cba43897eb7ae5cbe258
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 3c2e9b4aa0134f14db51501c9812c155
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 74c491a442f89a546afe2bcbbc239589
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: d643fc0fc3fa09d4fba646a68ae91c83
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 000628b25bb726c46bfd362355e15f55
+        m_Value: https://raw.githubusercontent.com/giuRP/Atividade2_Addressables_Giuliano/refs/heads/main/
     m_ProfileEntryNames:
     - m_Id: c20571824763cba43897eb7ae5cbe258
       m_Name: BuildTarget
@@ -100,7 +115,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c4468f13eeb07b047aac8b17a718bdf4, type: 2}
   - {fileID: 11400000, guid: e7c5d634d89721249b700eef387fd211, type: 2}
   - {fileID: 11400000, guid: 8d4e663db9d3a954ab511a4a762fdf5d, type: 2}
-  m_ActiveProfileId: a82b9ee25c466234696b39390f2bd27a
+  m_ActiveProfileId: 595a857cc2c3e2940bccff2b8399d510
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}

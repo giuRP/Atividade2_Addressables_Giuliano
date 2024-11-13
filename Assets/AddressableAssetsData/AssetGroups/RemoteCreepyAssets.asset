@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteCreepyAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteCreepyAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2ef579bd4fef76046958b45abec91aa6
+  m_SerializeEntries:
+  - m_GUID: c6dcd4781ba08c744a17a03c887e46fb
+    m_Address: Assets/Prefabs/BarrelSet1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c25ea79a848351448ba6a61f688b7ed
+    m_Address: Assets/Prefabs/MetalBoxes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 521c79bf8c3126643b33901a8b2212ae
+    m_Address: Assets/Prefabs/BarrelSet2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bde9c7f71f858684ca7b9ceaa1f10a3d
+    m_Address: Assets/Prefabs/BarrelSet0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e83d872ecd3d1d489a614b7040b5934
+    m_Address: Assets/Prefabs/Containters.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c998ad3487f0384f95fcda776a78710
+    m_Address: Assets/Prefabs/WoodenBoxes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9d66f817761659847add16c131c1014d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2248d0e5b9978174786220482d329629, type: 2}
+    - {fileID: 11400000, guid: 35874fa71a5a5084a9b5b45fd695bde1, type: 2}
